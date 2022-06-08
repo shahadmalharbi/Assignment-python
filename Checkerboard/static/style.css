@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.color_red{
+  background-color: red;
+  width: 30px;
+  height: 30px;
+}
+.color_black{
+  background-color: black;
+  width: 30px;
+  height: 30px;
+}
+table {
+  width: 80%;
+  height: 500px;
+  border-spacing: 0;
+  border: 1px solid black;
+  margin: auto;
+}
